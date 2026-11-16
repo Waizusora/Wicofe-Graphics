@@ -2,6 +2,10 @@
 
 This directory documents reusable userspace graphics and display-stack infrastructure for Wicofe.
 
+## Architecture and design
+
+- [Graphics and display subsystem architecture 0.1](GRAPHICS_SUBSYSTEM_ARCHITECTURE_0.1.md) — draft boundaries, display discovery, buffer ownership, rendering, composition, synchronization, security and validation requirements.
+
 ## Scope
 - Display discovery/configuration interfaces.
 - Rendering APIs and backend integration.
