@@ -14,7 +14,7 @@ This directory documents reusable userspace graphics and display-stack infrastru
 - Display diagnostics, compatibility data, and tests.
 
 ## Ownership
-Kernel display drivers and low-level device interfaces belong to [Wicofe-Kernel](https://github.com/Waizusora/Wicofe-Kernel) and [Wicofe-Drivers](https://github.com/Waizusora/Wicofe-Drivers). [WDE](https://github.com/Waizusora/WDE) owns desktop composition, windows, panel, launcher, and session behavior. This repository provides reusable graphics infrastructure.
+Kernel display drivers and low-level device interfaces belong to [Wicofe-Kernel](https://github.com/Waizusora/Wicofe-Kernel) and [Wicofe-Driver](https://github.com/Waizusora/Wicofe-Driver). [WDE](https://github.com/Waizusora/WDE) owns desktop composition, windows, panel, launcher, and session behavior. This repository provides reusable graphics infrastructure.
 
-- [Central documentation index](https://github.com/Waizusora/Wicofe-Docs/blob/main/INDEX.md)
-- [Repository documentation map](https://github.com/Waizusora/Wicofe-Docs/blob/main/REPOSITORY_DOCUMENTATION_MAP.md)
+- [Central documentation index](https://github.com/Waizusora/Wicofe-Doc/blob/main/INDEX.md)
+- [Repository documentation map](https://github.com/Waizusora/Wicofe-Doc/blob/main/REPOSITORY_DOCUMENTATION_MAP.md)
